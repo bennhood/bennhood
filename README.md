@@ -97,7 +97,7 @@ Develop and document KQL queries used during SOC triage and investigation.
 
 ## How I Approach Security
 
-I treat cybersecurity as a **systems problem** — technical, human, and procedural.
+I treat cybersecurity as a **systems problem** - technical, human, and procedural.
 
 Rather than chasing tools, I focus on:
 - Why an alert exists  
