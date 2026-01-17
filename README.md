@@ -1,4 +1,4 @@
-# Ben — SOC Analyst / Cyber Security Portfolio
+# Ben - SOC Analyst / Cyber Security Portfolio
 
 ## Overview
 
