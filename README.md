@@ -92,7 +92,7 @@ Develop and document KQL queries used during SOC triage and investigation.
 - SC-200 Microsoft Certified: Security Operations Analyst Associate
 - Continuous hands-on practice alongside certification study  
 - Focus on **understanding alerts**, not memorizing answers  
-
+- Undergoing study for AZ-104, with AZ-500 in mind, and learning key cloud concepts with Learntocloud.guide
 ---
 
 ## How I Approach Security
