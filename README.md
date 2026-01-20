@@ -140,7 +140,10 @@ I am particularly interested in roles that allow:
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-2E8B57?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</div>
 
 ### Network
 <div>
