@@ -162,7 +162,7 @@ I am particularly interested in roles that allow:
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-SC--200-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
+<img src="https://img.shields.io/badge/SC--200-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
