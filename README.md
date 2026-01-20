@@ -99,20 +99,6 @@ Develop and document KQL queries used during SOC triage and investigation.
 - Undergoing study for AZ-104, with AZ-500 in mind, and learning key cloud concepts with Learntocloud.guide
 ---
 
-## How I Approach Security
-
-I treat cybersecurity as a **systems problem** - technical, human, and procedural.
-
-Rather than chasing tools, I focus on:
-- Why an alert exists  
-- What normal behavior looks like  
-- How attackers move through systems  
-- When to escalate vs investigate further  
-
-This portfolio reflects that mindset: **signal over noise, clarity over complexity**.
-
----
-
 ## What I’m Working Toward
 
 - Entry-level **SOC Analyst** role  
