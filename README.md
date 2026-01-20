@@ -28,6 +28,7 @@ This portfolio documents my progression through **SIEM tooling, threat detection
 - Azure Log Analytics  
 - Azure Virtual Machines  
 - Azure Networking (VNets, NSGs)
+- Splunk
 
 **Detection & Analysis**
 - KQL (Kusto Query Language)  
@@ -44,7 +45,7 @@ This portfolio documents my progression through **SIEM tooling, threat detection
 - TryHackMe  
 - Hack The Box  
 - Custom Azure-based lab environments  
-
+- Home-lab Windows VM (Splunk) Kali Linux VM
 ---
 
 ## Portfolio Projects
@@ -65,7 +66,10 @@ Simulate a publicly exposed asset and analyze real-world attack traffic.
 - Log interpretation  
 - Practical SIEM usage  
 - Documentation & reporting  
+- Data enrichment
 
+<a href="https://github.com/bennhood/Azure-SOC-Honeypot-GeoIP-Abuse-Map">Honey Pot / GeoIP Abuse Mapping Project</a>
+  
 ---
 
 ### 2. SIEM Detection & Investigation Queries
