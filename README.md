@@ -148,7 +148,7 @@ I am particularly interested in roles that allow:
 
 ## Certifications
 <div>
- Verified: linked badges
+ <br>Verified: linked badges</br>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/benhood-3185/129C7EF2BEFA20AB?sharingId=1F70CA150F0A67F8">
     <img src="https://img.shields.io/badge/SC--200-0078D4?style=for-the-badge" /> </a>
   <a href="https://www.credly.com/users/benjaminhood/badges#credly">
