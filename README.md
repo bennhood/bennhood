@@ -79,13 +79,16 @@ Develop and document KQL queries used during SOC triage and investigation.
 **What This Demonstrates:**
 - Identifying suspicious authentication activity  
 - Detecting brute force & failed login patterns  
-- Highlighting privilege escalation indicators  
+- Checking for privilege escalation indicators  
 - Separating signal from noise in large datasets  
 
 **Key Skills Shown:**
 - Analytical thinking  
 - Query construction  
 - SOC-style investigative flow  
+
+
+<a href="https://github.com/bennhood/Azure-Honeypot--Brute-Force-Investigation-Incident-Closure">Investigation & incident closure</a>
 
 ---
 
