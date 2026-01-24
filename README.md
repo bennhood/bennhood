@@ -131,8 +131,6 @@ Develop and document KQL queries used during SOC triage and investigation.
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> </a>
   <ahref="https://www.credly.com/users/benjaminhood/badges#credly">
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </a>
-  <ahref="https://www.credly.com/users/benjaminhood/badges#credly">
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> </a>
 </div>
 
 ## Certifications (Click to verify)
