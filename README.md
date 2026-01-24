@@ -98,21 +98,7 @@ Develop and document KQL queries used during SOC triage and investigation.
 - Splunk Core Certified Power User
 - SC-200 Microsoft Certified: Security Operations Analyst Associate
 - Continuous hands-on practice alongside certification study  
-- Focus on **understanding alerts**, not memorizing answers  
 - Undergoing study for AZ-104, with AZ-500 in mind, and learning key cloud concepts with Learntocloud.guide
----
-
-## What I’m Working Toward
-
-- Entry-level **SOC Analyst** role  
-- Remote or hybrid environments  
-- Teams that value curiosity, documentation, and growth  
-
-I am particularly interested in roles that allow:
-- Exposure to real alerts  
-- Strong investigation fundamentals  
-- Progression into detection engineering or threat hunting  
-
 ---
 
 
