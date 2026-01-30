@@ -88,7 +88,7 @@ Develop and document KQL queries used during SOC triage and investigation.
 - SOC-style investigative flow  
 
 
-<a href="https://github.com/bennhood/Azure-Honeypot--Brute-Force-Investigation-Incident-Closure">Investigation & incident closure</a>
+<a href="https://github.com/bennhood/Azure-Honeypot-Brute-Force-Investigation-Incident-Closure">Investigation & incident closure</a>
 
 ---
 
