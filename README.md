@@ -2,7 +2,7 @@
 
 ## Overview
 
-I am an aspiring **SOC Analyst** with a strong focus on **practical security operations, incident detection, and investigative workflows**.  
+I working towards **SOC Analyst** readiness with a strong focus on **practical security operations, incident detection, and investigative workflows**.  
 My work centers around **realistic environments, hands-on labs, and end-to-end security monitoring**, rather than theoretical knowledge alone.
 
 This portfolio documents my progression through **SIEM tooling, threat detection, log analysis, and incident response**, with an emphasis on how decisions are made inside a live SOC.
