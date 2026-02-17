@@ -111,6 +111,8 @@ Design and implement Splunk dashboards to support SOC-style triage, investigatio
 
 <a href="https://github.com/bennhood/Splunk-Firewall-and-SSH-Logs-Dashboard-Demo/blob/main/README.md">Splunk Firewall (Basic) & SSH dashboards</a>
 
+---
+
 ## Certifications & Study
 
 - CompTIA Security+ SY0-701
