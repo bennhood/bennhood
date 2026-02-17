@@ -112,12 +112,11 @@ Design and implement Splunk dashboards to support SOC-style triage, investigatio
 <a href="https://github.com/bennhood/Splunk-Firewall-and-SSH-Logs-Dashboard-Demo/blob/main/README.md">Splunk Firewall (Basic) & SSH dashboards</a>
 
 ---
-
 ## Certifications & Study
 
+- SC-200 Microsoft Certified: Security Operations Analyst Associate
 - CompTIA Security+ SY0-701
 - Splunk Core Certified Power User
-- SC-200 Microsoft Certified: Security Operations Analyst Associate
 - Continuous hands-on practice alongside certification study  
 - Undergoing study for AZ-104, with AZ-500 in mind, and learning key cloud concepts with Learntocloud.guide
 ---
