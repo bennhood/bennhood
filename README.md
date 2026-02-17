@@ -92,6 +92,26 @@ Develop and document KQL queries used during SOC triage and investigation.
 
 ---
 
+### Splunk-Firewall-and-SSH-Logs-Dashboard
+
+**Objective:**
+Design and implement Splunk dashboards to support SOC-style triage, investigation, and prioritisation of firewall and SSH log activity using log analysis and threat enrichment.
+
+**What This Demonstrates:**
+
+- Identifying suspicious traffic through volume-based heuristics
+- Detecting SSH brute force and reconnaissance behaviour
+- Enriching raw IP data with geolocation and reputation context
+- Applying layered analysis rather than single-metric conclusions
+
+**Key Skills Shown:**
+
+- SOC-oriented analytical thinking
+- Dashboard design for triage workflows
+- Threat context enrichment and investigative reasoning
+
+<a href="https://github.com/bennhood/Splunk-Firewall-and-SSH-Logs-Dashboard-Demo/blob/main/README.md">Splunk Firewall (Basic) & SSH dashboards</a>
+
 ## Certifications & Study
 
 - CompTIA Security+ SY0-701
