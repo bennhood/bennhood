@@ -109,7 +109,7 @@ Design and implement Splunk dashboards to support SOC-style triage, investigatio
 - Dashboard design for triage workflows
 - Threat context enrichment and investigative reasoning
 
-<a href="https://github.com/bennhood/Splunk-Firewall-and-SSH-Logs-Dashboard-Demo/blob/main/README.md">Splunk Firewall (Basic) & SSH dashboards</a>
+<a href="https://github.com/bennhood/Splunk-Firewall-and-SSH-Logs-Dashboard-Demo/blob/main/README.md">Splunk Firewall (source traffic analysis) & SSH dashboards</a>
 
 ---
 ## Certifications & Study
