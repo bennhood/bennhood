@@ -92,7 +92,7 @@ Develop and document KQL queries used during SOC triage and investigation.
 
 ---
 
-### Splunk-Firewall-and-SSH-Logs-Dashboard
+### 3. Splunk-Firewall-and-SSH-Logs-Dashboard
 **Objective:**  
 Design and implement Splunk dashboards to support SOC-style triage, investigation, and prioritisation of firewall and SSH log activity using log analysis and threat enrichment.
 
