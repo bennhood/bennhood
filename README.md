@@ -26,7 +26,8 @@ Expanding knowledge into **IAM**, as attackers dont break into systems, they log
 ## Technical Stack & Tools
 
 **SIEM & Cloud**
-- Microsoft Sentinel  
+- Microsoft Sentinel
+- Microsoft EntraID  
 - Azure Log Analytics  
 - Azure Virtual Machines  
 - Azure Networking (VNets, NSGs)
