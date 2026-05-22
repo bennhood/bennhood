@@ -1,4 +1,4 @@
-# Ben - SOC Analyst / Cyber Security Portfolio
+# Ben - Cyber Security Portfolio
 
 ## Overview
 
@@ -6,6 +6,8 @@ Working towards **SOC Analyst** readiness with a strong focus on **practical sec
 My work centers around **realistic environments, hands-on labs, and end-to-end security monitoring**.
 
 This portfolio documents my progression through **SIEM tooling, threat detection, log analysis, and incident response**, with an emphasis on how decisions are made inside a live SOC.
+
+Expanding knowledge into IAM, as attackers dont break into systems, they log in. Starting with SC-300 and EntraID, with projects based around OKTA, Sailpoint and Automated Identity coming soon.
 
 ---
 
@@ -114,11 +116,12 @@ Design and implement Splunk dashboards to support SOC-style triage, investigatio
 ---
 ## Certifications & Study
 
+- SC-300 Microsoft Certified: Identity and Access Administrator
 - SC-200 Microsoft Certified: Security Operations Analyst Associate
 - CompTIA Security+ SY0-701
 - Splunk Core Certified Power User
 - Continuous hands-on practice alongside certification study  
-- Undergoing study for AZ-104, with AZ-500 in mind, and learning key cloud concepts with Learntocloud.guide
+- Undergoing study for AZ-104, with SC-500 in mind, and learning key cloud concepts with Learntocloud.guide
 ---
 
 
@@ -155,6 +158,8 @@ Design and implement Splunk dashboards to support SOC-style triage, investigatio
 
 ## Certifications (Click to verify)
 <div>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/benhood-3185/5CDA52090BA8825E?sharingId=1F70CA150F0A67F8">
+    <img src="https://img.shields.io/badge/SC--200-0078D4?style=for-the-badge" /> </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/benhood-3185/129C7EF2BEFA20AB?sharingId=1F70CA150F0A67F8">
     <img src="https://img.shields.io/badge/SC--200-0078D4?style=for-the-badge" /> </a>
   <a href="https://www.credly.com/users/benjaminhood/badges#credly">
