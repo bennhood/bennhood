@@ -7,7 +7,7 @@ My work centers around **realistic environments, hands-on labs, and end-to-end s
 
 This portfolio documents my progression through **SIEM tooling, threat detection, log analysis, and incident response**, with an emphasis on how decisions are made inside a live SOC.
 
-Expanding knowledge into IAM, as attackers dont break into systems, they log in. Starting with SC-300 and EntraID, with projects based around OKTA, Sailpoint and Automated Identity coming soon.
+Expanding knowledge into **IAM**, as attackers dont break into systems, they log in. Starting with **SC-300** and **EntraID**, with projects based around **OKTA**, **Sailpoint**, **PIM**, **PAM**, **IGA** coming soon.
 
 ---
 
@@ -159,7 +159,7 @@ Design and implement Splunk dashboards to support SOC-style triage, investigatio
 ## Certifications (Click to verify)
 <div>
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/benhood-3185/5CDA52090BA8825E?sharingId=1F70CA150F0A67F8">
-    <img src="https://img.shields.io/badge/SC--200-0078D4?style=for-the-badge" /> </a>
+    <img src="https://img.shields.io/badge/SC--300-0078D4?style=for-the-badge" /> </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/benhood-3185/129C7EF2BEFA20AB?sharingId=1F70CA150F0A67F8">
     <img src="https://img.shields.io/badge/SC--200-0078D4?style=for-the-badge" /> </a>
   <a href="https://www.credly.com/users/benjaminhood/badges#credly">
