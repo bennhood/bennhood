@@ -2,12 +2,11 @@
 
 ## Overview
 
-Working towards **SOC Analyst** readiness with a strong focus on **practical security operations, incident detection, and investigative workflows**.  
+Working towards **IAM Analyst** & **SOC Analyst**  readiness with a strong focus on **practical security operations, incident detection, investigative workflows and identity based infrastructure**.  
 My work centers around **realistic environments, hands-on labs, and end-to-end security monitoring**.
 
-This portfolio documents my progression through **SIEM tooling, threat detection, log analysis, and incident response**, with an emphasis on how decisions are made inside a live SOC.
+This portfolio documents my progression through **SIEM tooling, threat detection, log analysis, incident response, identity management and automation**, with an emphasis on how decisions are made inside live environemnts.
 
-Expanding knowledge into **IAM**, as attackers dont break into systems, they log in. Starting with **SC-300** and **EntraID**, with projects based around **OKTA**, **Sailpoint**, **PIM**, **PAM**, **IGA** coming soon.
 
 ---
 
@@ -19,7 +18,9 @@ Expanding knowledge into **IAM**, as attackers dont break into systems, they log
 - Incident Investigation & Reporting  
 - Network & Endpoint Telemetry  
 - Detection Logic & KQL Queries  
-- SOC Workflow Simulation
+- Identity Management Workflows
+- Okta Identity Management
+- SSO / MFA / JML 
 
 ---
 
@@ -27,7 +28,8 @@ Expanding knowledge into **IAM**, as attackers dont break into systems, they log
 
 **SIEM & Cloud**
 - Microsoft Sentinel
-- Microsoft EntraID  
+- Microsoft EntraID
+- Microsoft Defender  
 - Azure Log Analytics  
 - Azure Virtual Machines  
 - Azure Networking (VNets, NSGs)
@@ -42,18 +44,29 @@ Expanding knowledge into **IAM**, as attackers dont break into systems, they log
 - Network Security Fundamentals  
 - Endpoint Security Concepts  
 - Authentication & Access Events  
-- Privilege Escalation Indicators  
+- Privilege Escalation Indicators
+- Identity Acess Management
 
 **Labs & Practice**
 - TryHackMe  
 - Hack The Box  
 - Custom Azure-based lab environments  
 - Home-lab Windows VM (Splunk) Kali Linux VM
+- Okta Identity Workforce
+
 ---
 
 ## Portfolio Projects
 
-### 1. GeoIP Abuse Mapping & Open VM Honeypot
+### 1. Okta Identity Workforce
+**Objective:**  
+Simulate identity management system workflows for a mock corporate environement. Focusing on SSO federation, configuring SAML 2.0 and OIDC integrations between Okta and other SaaS apps, building out an adaptive tiered MFA policy and building Joiner/Mover/Leaver via SCIM + Okta Workflows with a mock responding HR department. WIP : Phase 1 + Phase 2 Complete.
+
+<a href="[https://github.com/bennhood/Okta-IAM-Lab]">Okta IAM Lab</a>
+  
+---
+
+### 2. GeoIP Abuse Mapping & Open VM Honeypot
 **Objective:**  
 Simulate a publicly exposed asset and analyze real-world attack traffic.
 
@@ -75,7 +88,7 @@ Simulate a publicly exposed asset and analyze real-world attack traffic.
   
 ---
 
-### 2. SIEM Detection & Investigation Queries
+### 3. SIEM Detection & Investigation Queries
 **Objective:**  
 Develop and document KQL queries used during SOC triage and investigation.
 
@@ -95,7 +108,7 @@ Develop and document KQL queries used during SOC triage and investigation.
 
 ---
 
-### 3. Splunk-Firewall-and-SSH-Logs-Dashboard
+### 4. Splunk-Firewall-and-SSH-Logs-Dashboard
 **Objective:**  
 Design and implement Splunk dashboards to support SOC-style triage, investigation, and prioritisation of firewall and SSH log activity using log analysis and threat enrichment.
 
