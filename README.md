@@ -60,7 +60,7 @@ This portfolio documents my progression through **SIEM tooling, threat detection
 
 ### 1. Okta Identity Workforce
 **Objective:**  
-Simulate identity management system workflows for a mock corporate environement. Focusing on SSO federation, configuring SAML 2.0 and OIDC integrations between Okta and other SaaS apps, building out an adaptive tiered MFA policy and building Joiner/Mover/Leaver via SCIM + Okta Workflows with a mock responding HR department. WIP : Phase 1 + Phase 2 Complete.
+Simulate identity management system workflows for a mock corporate environement. Focusing on SSO federation, configuring SAML 2.0 and OIDC integrations between Okta and other SaaS apps, building out an adaptive tiered MFA policy and building Joiner/Mover/Leaver via SCIM + Okta Workflows with a mock responding HR department. WIP : Phase 1 + Phase 2 Complete - See /docs for full works.
 
 <a href="https://github.com/bennhood/Okta-IAM-Lab">Okta IAM Lab</a>
   
