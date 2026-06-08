@@ -1,174 +1,156 @@
 # Ben - Cyber Security Portfolio
 
-## Overview
+## About
 
-Working towards **IAM Analyst** & **SOC Analyst**  readiness with a strong focus on **practical security operations, incident detection, investigative workflows and identity based infrastructure**.  
-My work centers around **realistic environments, hands-on labs, and end-to-end security monitoring**.
+Cybersecurity practitioner focused on **Identity & Access Management
+(IAM)** and **Security Operations (SOC)** with hands-on experience
+building realistic enterprise security environments.
 
-This portfolio documents my progression through **SIEM tooling, threat detection, log analysis, incident response, identity management and automation**, with an emphasis on how decisions are made inside live environemnts.
+This portfolio demonstrates practical work across:
 
+-   Identity lifecycle management
+-   Authentication & access control
+-   SIEM monitoring and investigation
+-   Detection engineering
+-   Incident response workflows
+-   Security automation
 
----
+------------------------------------------------------------------------
 
-## Core Focus Areas
+## Core Specialisations
 
-- Security Monitoring & Alert Triage  
-- Log Analysis & Event Correlation  
-- SIEM (Microsoft Sentinel / Log Analytics)  
-- Incident Investigation & Reporting  
-- Network & Endpoint Telemetry  
-- Detection Logic & KQL Queries  
-- Identity Management Workflows
-- Okta Identity Management
-- SSO / MFA / JML 
+### Identity & Access Management
 
----
+-   Identity Governance & Administration
+-   SSO Federation (SAML 2.0 / OIDC)
+-   Adaptive MFA & Conditional Access Concepts
+-   Joiner / Mover / Leaver (JML) Automation
+-   Access Reviews & Reporting
+-   Identity API Automation
 
-## Technical Stack & Tools
+### Security Operations
 
-**SIEM & Cloud**
-- Microsoft Sentinel
-- Microsoft EntraID
-- Microsoft Defender  
-- Azure Log Analytics  
-- Azure Virtual Machines  
-- Azure Networking (VNets, NSGs)
-- Splunk
+-   Alert Triage
+-   Log Analysis
+-   Threat Investigation
+-   Detection Logic
+-   Incident Documentation
+-   Security Monitoring
 
-**Detection & Analysis**
-- KQL (Kusto Query Language)  
-- Windows Event Logs (Security, System, Application)  
-- GeoIP & IP Reputation Analysis  
+------------------------------------------------------------------------
 
-**Security Domains**
-- Network Security Fundamentals  
-- Endpoint Security Concepts  
-- Authentication & Access Events  
-- Privilege Escalation Indicators
-- Identity Acess Management
+## Technical Stack
 
-**Labs & Practice**
-- TryHackMe  
-- Hack The Box  
-- Custom Azure-based lab environments  
-- Home-lab Windows VM (Splunk) Kali Linux VM
-- Okta Identity Workforce
+### Identity & Cloud
 
----
+-   Okta Workforce Identity
+-   Microsoft Entra ID
+-   Azure
+-   Azure Log Analytics
+-   Azure Virtual Machines
 
-## Portfolio Projects
+### Security Monitoring
 
-### 1. Okta Identity Workforce
-**Objective:**  
-Simulate identity management system workflows for a mock corporate environement. Focusing on SSO federation, configuring SAML 2.0 and OIDC integrations between Okta and other SaaS apps, building out an adaptive tiered MFA policy and building Joiner/Mover/Leaver via SCIM + Okta Workflows with a mock responding HR department. WIP : Phase 1 + Phase 2 Complete - See /docs for full works.
+-   Microsoft Sentinel
+-   Microsoft Defender
+-   Splunk
+-   Windows Event Logs
+-   KQL
 
-<a href="https://github.com/bennhood/Okta-IAM-Lab">Okta IAM Lab</a>
-  
----
+### Automation
 
-### 2. GeoIP Abuse Mapping & Open VM Honeypot
-**Objective:**  
-Simulate a publicly exposed asset and analyze real-world attack traffic.
+-   Python
+-   REST APIs
+-   JSON
+-   Git / GitHub
 
-**What This Demonstrates:**
-- Azure VM exposure & telemetry collection  
-- Ingesting Windows Security Events into Sentinel  
-- Mapping malicious IP addresses by geography  
-- Identifying attack patterns via Event IDs  
-- Writing KQL queries to isolate abuse signals  
+------------------------------------------------------------------------
 
-**Key Skills Shown:**
-- Threat visibility  
-- Log interpretation  
-- Practical SIEM usage  
-- Documentation & reporting  
-- Data enrichment
+# Featured Projects
 
-<a href="https://github.com/bennhood/Azure-SOC-Honeypot-GeoIP-Abuse-Map">Honey Pot / GeoIP Abuse Mapping Project</a>
-  
----
+## 1. Okta Workforce Identity IAM Lab
 
-### 3. SIEM Detection & Investigation Queries
-**Objective:**  
-Develop and document KQL queries used during SOC triage and investigation.
+**Objective**
 
-**What This Demonstrates:**
-- Identifying suspicious authentication activity  
-- Detecting brute force & failed login patterns  
-- Checking for privilege escalation indicators  
-- Separating signal from noise in large datasets  
+Simulate an enterprise identity environment implementing authentication,
+access control, and identity lifecycle automation.
 
-**Key Skills Shown:**
-- Analytical thinking  
-- Query construction  
-- SOC-style investigative flow  
+**Built:**
 
+-   SAML 2.0 federation
+-   OIDC authorization code flow
+-   Adaptive MFA policies
+-   Joiner / Mover / Leaver automation
+-   Okta REST API reporting
+-   Policy-as-code exports
 
-<a href="https://github.com/bennhood/Azure-Honeypot-Brute-Force-Investigation-Incident-Closure">Investigation & incident closure</a>
+**Demonstrates:**
 
----
+-   Enterprise IAM architecture
+-   Authentication troubleshooting
+-   Identity governance concepts
+-   Security automation
 
-### 4. Splunk-Firewall-and-SSH-Logs-Dashboard
-**Objective:**  
-Design and implement Splunk dashboards to support SOC-style triage, investigation, and prioritisation of firewall and SSH log activity using log analysis and threat enrichment.
+Project: https://github.com/bennhood/Okta-IAM-Lab
 
-**What This Demonstrates:**
+------------------------------------------------------------------------
 
-- Identifying suspicious traffic through volume-based heuristics
-- Detecting SSH brute force and reconnaissance behaviour
-- Enriching raw IP data with geolocation and reputation context
-- Applying layered analysis rather than single-metric conclusions
+## 2. Azure SOC Honeypot & GeoIP Attack Mapping
 
-**Key Skills Shown:**
+**Objective**
 
-- SOC-oriented analytical thinking
-- Dashboard design for triage workflows
-- Threat context enrichment and investigative reasoning
+Deploy a deliberately exposed Azure VM to collect attack telemetry and
+investigate malicious activity.
 
-<a href="https://github.com/bennhood/Splunk-Firewall-and-SSH-Logs-Dashboard-Demo/blob/main/README.md">Splunk Firewall (source traffic analysis) & SSH log dashboards</a>
+**Demonstrates:**
 
----
-## Certifications & Study
+-   SIEM implementation
+-   Threat visibility
+-   Log investigation
+-   Detection development
 
-- SC-300 Microsoft Certified: Identity and Access Administrator
-- SC-200 Microsoft Certified: Security Operations Analyst Associate
-- CompTIA Security+ SY0-701
-- Splunk Core Certified Power User
-- Continuous hands-on practice alongside certification study  
-- Undergoing study for AZ-104, with SC-500 in mind, and learning key cloud concepts with Learntocloud.guide
----
+Project: https://github.com/bennhood/Azure-SOC-Honeypot-GeoIP-Abuse-Map
 
+------------------------------------------------------------------------
 
-<!--- ## Skills
+## 3. SIEM Detection & Investigation Queries
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab| --->
+**Objective**
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-2E8B57?style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</div>
+Create SOC-style investigation queries focused on suspicious behaviour.
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+**Demonstrates:**
 
-### SIEM
-<div>
-  <ahref="https://learn.microsoft.com/api/credentials/share/en-us/benhood-3185/129C7EF2BEFA20AB?sharingId=1F70CA150F0A67F8">
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> </a>
-  <ahref="https://www.credly.com/users/benjaminhood/badges#credly">
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </a>
-</div>
+-   KQL development
+-   Event correlation
+-   Alert investigation workflows
+
+Project:
+https://github.com/bennhood/Azure-Honeypot-Brute-Force-Investigation-Incident-Closure
+
+------------------------------------------------------------------------
+
+## Certifications
+
+-   Microsoft SC-300 Identity and Access Administrator
+-   Microsoft SC-200 Security Operations Analyst
+-   CompTIA Security+
+-   Splunk Core Certified Power User
+
+------------------------------------------------------------------------
+
+## Current Focus
+
+Building toward:
+
+-   IAM Analyst
+-   Security Operations Analyst
+-   Identity Security Engineer
+
+Focused on practical security projects that demonstrate operational
+thinking.
+
+------------------------------------------------------------------------
 
 ## Certifications (Click to verify)
 <div>
@@ -182,3 +164,6 @@ Design and implement Splunk dashboards to support SOC-style triage, investigatio
     <img src="https://img.shields.io/badge/-Splunk%20Power%20User-000000?style=for-the-badge&logo=splunk&logoColor=white" /> </a>
 
 </div>
+
+------------------------------------------------------------------------
+
