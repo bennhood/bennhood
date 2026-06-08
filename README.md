@@ -91,7 +91,7 @@ access control, and identity lifecycle automation.
 -   Identity governance concepts
 -   Security automation
 
-Project: https://github.com/bennhood/Okta-IAM-Lab
+Project: [`Okta Workforce Identity Project`](https://github.com/bennhood/Okta-Workforce-Identity-Project/tree/main)
 
 ------------------------------------------------------------------------
 
