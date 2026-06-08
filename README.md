@@ -17,52 +17,25 @@ This portfolio demonstrates practical work across:
 
 ------------------------------------------------------------------------
 
-## Core Specialisations
+## Core Focus Areas
 
 ### Identity & Access Management
 
 -   Identity Governance & Administration
 -   SSO Federation (SAML 2.0 / OIDC)
--   Adaptive MFA & Conditional Access Concepts
--   Joiner / Mover / Leaver (JML) Automation
--   Access Reviews & Reporting
--   Identity API Automation
+-   Adaptive MFA & Conditional Access concepts
+-   Joiner / Mover / Leaver (JML) automation
+-   Access reviews and reporting
+-   Identity API automation
+-   Okta Workforce Identity
 
 ### Security Operations
 
--   Alert Triage
--   Log Analysis
--   Threat Investigation
--   Detection Logic
--   Incident Documentation
--   Security Monitoring
-
-------------------------------------------------------------------------
-
-## Technical Stack
-
-### Identity & Cloud
-
--   Okta Workforce Identity
--   Microsoft Entra ID
--   Azure
--   Azure Log Analytics
--   Azure Virtual Machines
-
-### Security Monitoring
-
--   Microsoft Sentinel
--   Microsoft Defender
--   Splunk
--   Windows Event Logs
--   KQL
-
-### Automation
-
--   Python
--   REST APIs
--   JSON
--   Git / GitHub
+-   Security monitoring & alert triage
+-   Log analysis & event correlation
+-   Incident investigation & reporting
+-   Network and endpoint telemetry
+-   Detection logic and KQL queries
 
 ------------------------------------------------------------------------
 
@@ -72,44 +45,55 @@ This portfolio demonstrates practical work across:
 
 **Objective**
 
-Simulate an enterprise identity environment implementing authentication,
-access control, and identity lifecycle automation.
+Simulate an enterprise identity environment implementing SSO federation,
+adaptive MFA, identity lifecycle automation and API-driven access
+management.
 
 **Built:**
 
--   SAML 2.0 federation
--   OIDC authorization code flow
--   Adaptive MFA policies
--   Joiner / Mover / Leaver automation
--   Okta REST API reporting
+-   Okta Workforce Identity environment
+-   SAML 2.0 federation with Salesforce Developer Edition
+-   OIDC authorization code flow using Node.js Express
+-   Adaptive MFA policies using network-based risk controls
+-   Joiner / Mover / Leaver automation using Python and Okta REST API
+-   Access reporting and stale account detection
 -   Policy-as-code exports
 
 **Demonstrates:**
 
 -   Enterprise IAM architecture
--   Authentication troubleshooting
--   Identity governance concepts
--   Security automation
+-   Authentication protocol understanding
+-   Identity governance workflows
+-   Access lifecycle management
+-   REST API automation
 
-Project: [`Okta Workforce Identity Project`](https://github.com/bennhood/Okta-Workforce-Identity-Project/tree/main)
+[`Okta Workforce Identity Project`](https://github.com/bennhood/Okta-Workforce-Identity-Project)
 
 ------------------------------------------------------------------------
 
-## 2. Azure SOC Honeypot & GeoIP Attack Mapping
+## 2. GeoIP Abuse Mapping & Open VM Honeypot
 
 **Objective**
 
-Deploy a deliberately exposed Azure VM to collect attack telemetry and
-investigate malicious activity.
+Simulate a publicly exposed asset and analyze real-world attack traffic.
 
-**Demonstrates:**
+**What This Demonstrates:**
 
--   SIEM implementation
+-   Azure VM exposure & telemetry collection
+-   Ingesting Windows Security Events into Sentinel
+-   Mapping malicious IP addresses by geography
+-   Identifying attack patterns via Event IDs
+-   Writing KQL queries to isolate abuse signals
+
+**Key Skills Shown:**
+
 -   Threat visibility
--   Log investigation
--   Detection development
+-   Log interpretation
+-   Practical SIEM usage
+-   Documentation & reporting
+-   Data enrichment
 
-Project: https://github.com/bennhood/Azure-SOC-Honeypot-GeoIP-Abuse-Map
+[`Azure SOC Honeypot GeoIP Abuse Map`](https://github.com/bennhood/Azure-SOC-Honeypot-GeoIP-Abuse-Map")
 
 ------------------------------------------------------------------------
 
@@ -117,29 +101,60 @@ Project: https://github.com/bennhood/Azure-SOC-Honeypot-GeoIP-Abuse-Map
 
 **Objective**
 
-Create SOC-style investigation queries focused on suspicious behaviour.
+Develop and document KQL queries used during SOC triage and
+investigation.
 
-**Demonstrates:**
+**What This Demonstrates:**
 
--   KQL development
--   Event correlation
--   Alert investigation workflows
+-   Identifying suspicious authentication activity
+-   Detecting brute force & failed login patterns
+-   Checking privilege escalation indicators
+-   Separating signal from noise
 
-Project:
-https://github.com/bennhood/Azure-Honeypot-Brute-Force-Investigation-Incident-Closure
+**Key Skills Shown:**
+
+-   Analytical thinking
+-   Query construction
+-   SOC-style investigative flow
+
+[`Azure Honeypot Brute Force Investigation`](https://github.com/bennhood/Azure-Honeypot-Brute-Force-Investigation-Incident-Closure)
 
 ------------------------------------------------------------------------
 
-## Certifications
+## 4. Splunk Firewall & SSH Log Dashboard
 
--   Microsoft SC-300 Identity and Access Administrator
--   Microsoft SC-200 Security Operations Analyst
--   CompTIA Security+
+**Objective**
+
+Design and implement Splunk dashboards to support SOC-style triage,
+investigation, and prioritisation of firewall and SSH log activity.
+
+**What This Demonstrates:**
+
+-   Identifying suspicious traffic through volume-based heuristics
+-   Detecting SSH brute force and reconnaissance behaviour
+-   Enriching raw IP data with geolocation and reputation context
+-   Applying layered analysis
+
+**Key Skills Shown:**
+
+-   SOC-oriented analytical thinking
+-   Dashboard design
+-   Threat context enrichment
+
+[`Splunk Firewall & SSH Logs Dashboards`](https://github.com/bennhood/Splunk-Firewall-and-SSH-Logs-Dashboard)
+
+------------------------------------------------------------------------
+
+# Certifications
+
+-   SC-300 Microsoft Certified: Identity and Access Administrator
+-   SC-200 Microsoft Certified: Security Operations Analyst Associate
+-   CompTIA Security+ SY0-701
 -   Splunk Core Certified Power User
 
 ------------------------------------------------------------------------
 
-## Current Focus
+# Current Focus
 
 Building toward:
 
@@ -149,6 +164,7 @@ Building toward:
 
 Focused on practical security projects that demonstrate operational
 thinking.
+
 
 ------------------------------------------------------------------------
 
