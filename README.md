@@ -69,6 +69,9 @@ management.
 
 [`Okta Workforce Identity Project`](https://github.com/bennhood/Okta-Workforce-Identity-Project)
 
+<img width="455" height="143" alt="ServicesIAMOktaSalesforceSlack" src="https://github.com/user-attachments/assets/be1e7929-19bc-4ac2-993f-b8259f752c03" />
+
+
 ------------------------------------------------------------------------
 
 ## 2. Azure: GeoIP Abuse Mapping & Open VM Honeypot
@@ -95,6 +98,9 @@ Simulate a publicly exposed asset and analyze real-world attack traffic.
 
 [`Azure SOC Honeypot GeoIP Abuse Map`](https://github.com/bennhood/Azure-SOC-Honeypot-GeoIP-Abuse-Map)
 
+<img width="1361" height="213" alt="ServicesAzure" src="https://github.com/user-attachments/assets/3b048386-75df-4a21-b814-fffce15cf968" />
+
+
 ------------------------------------------------------------------------
 
 ## 3. Azure: SIEM Detection & Investigation Queries
@@ -118,6 +124,9 @@ investigation.
 -   SOC-style investigative flow
 
 [`Azure Honeypot Brute Force Investigation`](https://github.com/bennhood/Azure-Honeypot-Brute-Force-Investigation-Incident-Closure)
+
+<img width="1361" height="213" alt="ServicesAzure" src="https://github.com/user-attachments/assets/2ba65828-61ac-403b-984f-348464a31af0" />
+
 
 ------------------------------------------------------------------------
 
