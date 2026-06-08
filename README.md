@@ -71,7 +71,7 @@ management.
 
 ------------------------------------------------------------------------
 
-## 2. GeoIP Abuse Mapping & Open VM Honeypot
+## 2. Azure: GeoIP Abuse Mapping & Open VM Honeypot
 
 **Objective**
 
@@ -93,11 +93,11 @@ Simulate a publicly exposed asset and analyze real-world attack traffic.
 -   Documentation & reporting
 -   Data enrichment
 
-[`Azure SOC Honeypot GeoIP Abuse Map`](https://github.com/bennhood/Azure-SOC-Honeypot-GeoIP-Abuse-Map")
+[`Azure SOC Honeypot GeoIP Abuse Map`](https://github.com/bennhood/Azure-SOC-Honeypot-GeoIP-Abuse-Map)
 
 ------------------------------------------------------------------------
 
-## 3. SIEM Detection & Investigation Queries
+## 3. Azure: SIEM Detection & Investigation Queries
 
 **Objective**
 
