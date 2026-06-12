@@ -45,9 +45,7 @@ This portfolio demonstrates practical work across:
 
 **Objective**
 
-Simulate an enterprise identity environment implementing SSO federation,
-adaptive MFA, identity lifecycle automation and API-driven access
-management.
+Simulate an enterprise identity environment implementing SSO federation, adaptive MFA, identity lifecycle automation, SCIM 2.0 provisioning and API-driven access management.
 
 **Built:**
 
@@ -56,6 +54,7 @@ management.
 -   OIDC authorization code flow using Node.js Express
 -   Adaptive MFA policies using network-based risk controls
 -   Joiner / Mover / Leaver automation using Python and Okta REST API
+-   SCIM 2.0 service provider built with Python FastAPI, receiving live provisioning from Okta
 -   Access reporting and stale account detection
 -   Policy-as-code exports
 
@@ -63,6 +62,7 @@ management.
 
 -   Enterprise IAM architecture
 -   Authentication protocol understanding
+-   SCIM 2.0 provisioning protocol - implemented server-side
 -   Identity governance workflows
 -   Access lifecycle management
 -   REST API automation
