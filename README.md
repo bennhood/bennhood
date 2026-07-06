@@ -47,29 +47,42 @@ This portfolio demonstrates practical work across:
 
 Simulate an enterprise identity environment implementing SSO federation, adaptive MFA, identity lifecycle automation, SCIM 2.0 provisioning and API-driven access management.
 
+**Objective**
+Simulate an enterprise identity environment implementing SSO federation,
+adaptive MFA, cross-directory identity lifecycle automation, SCIM 2.0
+provisioning, and API-driven access management across Okta and Microsoft
+Entra ID.
+
 **Built:**
 
--   Okta Workforce Identity environment
--   SAML 2.0 federation with Salesforce Developer Edition
--   OIDC authorization code flow using Node.js Express
--   Adaptive MFA policies using network-based risk controls
--   Joiner / Mover / Leaver automation using Python and Okta REST API
--   SCIM 2.0 service provider built with Python FastAPI, receiving live provisioning from Okta
--   Access reporting and stale account detection
--   Policy-as-code exports
+* Okta Workforce Identity environment as the source-of-truth directory
+* SAML 2.0 federation with Salesforce Developer Edition
+* OIDC authorization code flow using Node.js Express
+* Adaptive MFA policies using network-based risk controls
+* Full Joiner / Mover / Leaver automation across Okta and Microsoft Entra
+  ID - Python, Okta REST API, and Microsoft Graph API
+* SCIM 2.0 service provider built with Python FastAPI, receiving live
+  provisioning from Okta
+* Bulk reconciliation engine - desired-vs-actual state diffing with Graph
+  `$batch`, dry-run safety, and protected-account scoping
+* Access reporting, stale account detection, and policy-as-code exports
 
 **Demonstrates:**
 
--   Enterprise IAM architecture
--   Authentication protocol understanding
--   SCIM 2.0 provisioning protocol - implemented server-side
--   Identity governance workflows
--   Access lifecycle management
--   REST API automation
+* Enterprise IAM architecture across two directories
+* Authentication protocol understanding (SAML, OIDC, OAuth 2.0 client
+  credentials)
+* SCIM 2.0 provisioning protocol - implemented server-side
+* Microsoft Graph API automation, throttling and eventual-consistency
+  handling
+* State reconciliation and drift detection
+* Identity governance workflows and access lifecycle management
+* Documented design decisions, known limitations, and defects found and
+  fixed in live validation
 
 [`Okta Workforce Identity Project`](https://github.com/bennhood/Okta-Workforce-Identity-Project)
 
-<img width="455" height="143" alt="ServicesIAMOktaSalesforceSlack" src="https://github.com/user-attachments/assets/be1e7929-19bc-4ac2-993f-b8259f752c03" />
+<img width="959" height="224" alt="stack" src="https://github.com/user-attachments/assets/34ac52f1-69d5-4637-aec3-e7c65e00423c" />
 
 
 ------------------------------------------------------------------------
