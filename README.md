@@ -44,6 +44,7 @@ This portfolio demonstrates practical work across:
 ## 1. Okta Workforce Identity IAM Lab
 
 **Objective**
+
 Simulate an enterprise identity environment implementing SSO federation,
 adaptive MFA, cross-directory identity lifecycle automation, SCIM 2.0
 provisioning, and API-driven access management across Okta and Microsoft
