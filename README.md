@@ -178,7 +178,6 @@ investigation, and prioritisation of firewall and SSH log activity.
 Building toward:
 
 -   IAM Analyst
--   Security Operations Analyst
 -   Identity Security Engineer
 
 Focused on practical security projects that demonstrate operational
