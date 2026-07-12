@@ -79,7 +79,7 @@ Entra ID.
 
 [`Okta Workforce Identity Project`](https://github.com/bennhood/Okta-Workforce-Identity-Project)
 
-<img width="959" height="224" alt="stack" src="https://github.com/user-attachments/assets/34ac52f1-69d5-4637-aec3-e7c65e00423c" />
+<img width="505" height="123" alt="TechStackTools" src="https://github.com/user-attachments/assets/42c1657f-18de-4cbe-a57e-9e5b08ef1535" />
 
 
 ------------------------------------------------------------------------
